@@ -12,7 +12,8 @@ module.exports = {
           default: 'hsl(212, 23%, 69%)',
           'very-dark': 'hsl(217, 19%, 35%)'
         },
-        'desaturated-dark-blue': 'hsl(214, 17%, 51%)'
+        'desaturated-dark-blue': 'hsl(214, 17%, 51%)',
+        'light-blue': 'hsl(228, 45%, 44%)'
       }
     }
   }
